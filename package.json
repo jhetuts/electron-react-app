@@ -1,8 +1,8 @@
 {
-  "name": "electron-react-app",
-  "productName": "electron-react-app",
+  "name": "kiosk-app-v2",
+  "productName": "kiosk-app-v2",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "Desktop application version of Kiosk",
   "main": ".webpack/main",
   "scripts": {
     "start": "electron-forge start",
